@@ -64,7 +64,7 @@ Source Network Address: -
   - If the script is blocked, set the execution policy to `RemoteSigned` or `Bypass` for the session, then revert to a more restrictive setting afterward.
 
 ## Author
-[Your Name / Organization]
+This script was authored by [aviado1](https://github.com/aviado1).
 
 ## Disclaimer
 Use this script at your own risk. The author(s) assume no responsibility or liability for any errors or omissions in the content of this script. The information contained herein is provided on an "as is" basis with no guarantees of completeness, accuracy, or timeliness.
