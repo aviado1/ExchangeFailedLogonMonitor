@@ -13,6 +13,8 @@ This script monitors failed logon attempts (Event ID 4625) in real-time on Windo
 1. Download or Clone this repository.
 2. Copy the `Monitor-FailedLogons.ps1` script to your desired location on the server.
 3. Open PowerShell or the Exchange Management Shell with Administrator privileges.
+   
+![image](https://github.com/user-attachments/assets/12c30419-fec3-4a2d-b0c9-ecc19219bb54)
 
 ## Usage
 1. Set Execution Policy (if needed)  
